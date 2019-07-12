@@ -1,9 +1,13 @@
 # git_test
 
-line3
+line 3
 
-line5
+line 5
 
 line7
 
 topic-A
+
+topic-B
+
+topic-C
